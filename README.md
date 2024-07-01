@@ -12,3 +12,5 @@
 5. Add the following path to the link in the browser at the end of the link<br>
 `http://localhost:.../register`<br>
 6. After registering, open MongoDB compass and verify.
+
+### Please feel free to correct me if you have any issues with my code. Contact me through LinkedIn or my Email-Id. Thanks :)
