@@ -38,6 +38,7 @@ function Register() {
                 <input
                   type="text"
                   placeholder="Enter User Name"
+                  required
                   name="name"
                   id="form3Example2"
                   className="form-control"
@@ -53,6 +54,7 @@ function Register() {
             <input
               type="email"
               placeholder="Enter Email-Id"
+              required 
               name="email"
               id="form3Example3"
               className="form-control"
@@ -66,6 +68,7 @@ function Register() {
             <input
               type="password"
               placeholder="Enter Password"
+              required
               name="password"
               id="form3Example4"
               className="form-control"
