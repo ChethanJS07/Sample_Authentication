@@ -17,6 +17,7 @@ exports.authenticate = async (req,res,next)=>{
         req.user = {};
         req.user.id = decoded.id;
         req.user.name = decoded.name;
+        next();
       }
     );
   }
