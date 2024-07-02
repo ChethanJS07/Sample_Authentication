@@ -22,7 +22,7 @@ function Home() {
     <div className="container">
       <header className="header">
         <h2>Expense Tracker</h2>
-        <button className="logout-button" onClick={handleLogout}>Logout</button>
+        <button className="btn btn-primary" onClick={handleLogout}>Logout</button>
       </header>
       <div className="content">
         <h3>Welcome to your Expense Tracker</h3>
