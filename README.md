@@ -1,3 +1,6 @@
+
+### This authentication also handles unauthorized access to home page even if you knew the routes to the home page :)
+
 ## Steps to verify Authentication
 
 1. Clone the repository<br>
@@ -13,4 +16,4 @@
 `http://localhost:.../register`<br>
 6. After registering, open MongoDB compass and verify.
 
-### Please feel free to correct me if you have any issues with my code. Contact me through LinkedIn or my Email-Id. Thanks :)
+#### Please feel free to correct me if you have any issues with my code. Contact me through LinkedIn or my Email-Id. Thanks :)
