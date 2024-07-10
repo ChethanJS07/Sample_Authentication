@@ -1,6 +1,4 @@
 
-### This authentication also handles unauthorized access to home page even if you knew the routes to the home page :)
-
 ## Steps to verify Authentication
 
 1. Clone the repository<br>
